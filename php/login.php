@@ -1,8 +1,4 @@
 <?php
-// $servername = "xk.database.chinacloudapi.cn";
-// $user = "shilin";
-// $pass = "ROOTroot1";
-// $dbname = "xk";
 require("db_config.php");
 $connectionOptions = array(
     "Database" => $dbname,
